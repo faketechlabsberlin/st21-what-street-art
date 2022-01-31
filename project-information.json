@@ -22,9 +22,9 @@
         },
         {"name": "Loraa",
             "full_name": "Laura, XX",
-            "track": "[WD]",
-            "github_name": "[loraxxde]",
-            "github_url": "[https://github.com/loraxxde]",
+            "track": "WD",
+            "github_name": "loraxxde",
+            "github_url": "https://github.com/loraxxde",
             "linkedin_url": "null",
             "email_adress": "null",
             "display": true
